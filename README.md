@@ -22,5 +22,8 @@ Here are the most frequent words in the Shakespeare corpus:
 In this project, I successfully analyzed the Shakespeare corpus using Python. I identified the most frequently used words, with 'the' being the most common. 
 This analysis provides insights into Shakespeare's use of language and common word patterns.
 
-**The Goat Facebook Account** 
+**The Goat Social Account** 
+Fb
 https://www.facebook.com/aliabdi.abdulahi
+twitter
+https://x.com/ali56arif
