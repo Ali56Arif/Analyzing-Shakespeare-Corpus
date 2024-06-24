@@ -1,5 +1,7 @@
 **Introduction**
 This project aims to analyze the Shakespeare corpus to find the most frequently used words. I'll use Python to download the corpus, process the text, and count the word frequencies.
+
+
 **Data Source**
 The Shakespeare corpus is a collection of all works by William Shakespeare. The data is available from the following URL: https://norvig.com/ngrams/shakespeare.txt
 
